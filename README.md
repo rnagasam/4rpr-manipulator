@@ -1,5 +1,4 @@
-# 4RPR
-Kinematic analysis of a planar 4-RPR manipulator.
+# Kinematic analysis of a planar 4-RPR robotic manipulator
 
 GUI programmed using MATLAB. 
 Addresses:
