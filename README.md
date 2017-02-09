@@ -7,3 +7,7 @@ Addresses:
   - Task space visualization
   - Open loop control
   - Close loop Joint space and Task space control
+
+[!Alt Text](4RPRManip.jpg?raw=true "4RPR Manipulator")
+
+[!Alt Text](image7.jpg?raw=true "MATLAB GUI")
