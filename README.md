@@ -10,4 +10,4 @@ Addresses:
 
 ![Alt Text](4RPRManip.JPG?raw=true "4RPR Manipulator")
 
-![Alt Text](image7.png?raw=true "MATLAB GUI")
+![Alt Text](screenshot.PNG?raw=true "MATLAB GUI")
