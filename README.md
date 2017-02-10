@@ -7,7 +7,8 @@ Addresses:
   - Task space visualization
   - Open loop control
   - Close loop Joint space and Task space control
+  
+  
+<img src="https://github.com/ramana-naga/4RPR-Parallel-Planar-Manipulator/blob/master/4RPRManip.JPG" width="592" height="592"/>
 
-![Alt Text](4RPRManip.JPG?raw=true "4RPR Manipulator")
-
-![Alt Text](screenshot.PNG?raw=true "MATLAB GUI")
+<img src="https://github.com/ramana-naga/4RPR-Parallel-Planar-Manipulator/blob/master/screenshot.PNG" width="592" height="299" />
